@@ -1,0 +1,16 @@
+Designed and developed a feature-rich Library Management System, ensuring seamless CRUD operations for managing books, members, and transactions.
+User Authentication: Implemented secure login and registration functionalities to restrict access to authorized users only.
+Technologies Used:
+Backend: Java (JDBC), Java Packages
+Frontend: HTML, CSS for designing responsive and user-friendly interfaces
+Tools: NetBeans IDE
+Database: SQL for maintaining records of books, members, and issued/returned transactions
+Features:
+CRUD Operations: Enabled Create, Read, Update, and Delete functionalities for book and member records.
+Search Functionality: Provided dynamic search options for books and members.
+User Roles: Segregated roles for admin and general users for streamlined access.
+Borrowing and Returning: Managed transactions for issuing and returning books while updating the database in real-time.
+Error Handling: Added robust exception handling for invalid operations or data entry errors.
+Outcome:
+Simplified library operations by automating manual record-keeping.
+Achieved an intuitive interface for managing library activities, improving efficiency by 30%.
